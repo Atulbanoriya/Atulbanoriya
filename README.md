@@ -1,16 +1,12 @@
-## Hi there 👋
-
+<h1 align="left">Hey 👻 Welcome to Readme.❤️ </h1>
 <br clear="both">
-
-<h1 align="center">Hey 👻 Welcome to Readme.❤️ </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Atul+Rajak+!;" />
+</h1>
 
 <div align="center">
   <img  src="assets\Linkldenback.gif"  />
 </div>
-
-###
-
-<h1 align="center">Hey,  I'm  Atul Rajak</h1>
 
 ###
 
@@ -22,6 +18,11 @@
 
 <a href="https://github.com/Atulbanoriya">
         <img alt="Github" src="https://camo.githubusercontent.com/0692b605218652efdffd740524d62e728c07bde8abb67b70f44fbd5555973d1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3432343334353f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Github-424345?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="25"></a>
+
+
+ <a href="https://atulbanoriya.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="25" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 
 
 <a href="mailto:rajakatul502@gmail.com?subject=Message%20from%20your%20site">
@@ -54,11 +55,11 @@
 
 ###
 
-<p align="left">I'm from Madhya Pardesh , India<br><br>- ✨ Creating bugs since 2021<br>- 🔭 I’m working on Mobile Application &  UI || UX<br>- 📚 I'm currently learning Laravel & PHP<br>- ⚡ In my free time I am Playing  Cricket and watch Web series</p>
+<p align="left">I'm from Madhya Pardesh , India<br><br>- ✨ Creating bugs since 2021<br>- 🔭 I’m working on Mobile Application &  UI || UX<br>- 📚 I'm currently learning Laravel & PHP<br>- ⚡ In my free time I  Play Cricket and watch Web series</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="lef">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 ###
 
@@ -98,10 +99,15 @@
 
 <br clear="both">
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+<div align="center">
+  <h2 align="left" >🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Atulbanoriya/count.svg?"  />
 </div>
