@@ -11,13 +11,12 @@
 ###
 
 <div align="center">
-  
- <a href="https://www.linkedin.com/in/atul-rajak-203984249" rel="nofollow">
-   <img alt="LinkedIn" src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="25" ></a>
+     <a href="https://www.linkedin.com/in/atul-rajak-203984249" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="25"></a>
+
 
 
 <a href="https://github.com/Atulbanoriya">
-        <img alt="Github" src="https://camo.githubusercontent.com/0692b605218652efdffd740524d62e728c07bde8abb67b70f44fbd5555973d1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3432343334353f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Github-424345?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="25"></a>
+<img alt="Github" src="https://camo.githubusercontent.com/9a0c50c24f5f1b7b47cf40a262f76905b4c0d4b6fa777d9acf0994d40ce09a6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3432343334353f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Github-424345?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="25" ></a>
 
 
  <a href="https://atulbanoriya.netlify.app" target="_blank">
@@ -25,8 +24,10 @@
   </a>
 
 
-<a href="mailto:rajakatul502@gmail.com?subject=Message%20from%20your%20site">
-        <img alt="Gmail" src="https://camo.githubusercontent.com/ae027071dd43472e25f4141c08519695dad5bdf2289ab48f908f89372043fc9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="25" style="max-width: 100%;"></a>
+
+
+ <a href="mailto:rajakatul502@gmail.com">
+        <img alt="Gmail" src="https://camo.githubusercontent.com/21cf1d219b38cbe6faced4b41533cfd7cf22c72bc4903a0f752115f56606b33e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="25"></a>       
   
   <a href="https://www.youtube.com/@FlutterwithFresher" >
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /> </a>
@@ -35,7 +36,18 @@
   
 <a href="https://www.instagram.com/atul_banoriya_/?utm_source=ig_web_button_share_sheet" rel="nofollow">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />   </a>
- 
+
+
+
+
+
+
+
+
+<div dir="auto">
+  <a href="https://play.google.com/store/apps/developer?id=Vasu+Gupta&hl=en-IN" rel="nofollow">
+        <img alt="PlayStore" src="https://camo.githubusercontent.com/29f4dcfb848a1e3b5cd4ba092a14617a256f5812419b6080dd3b4882497a52f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506c617953746f72652d6635343235373f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-PlayStore-f54257?style=for-the-badge&amp;logo=google-play&amp;logoColor=white" height="25" ></a>
+</div>
 </div>
 
 ###
